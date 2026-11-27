@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>South West Civ</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map"></div>
+  <aside id="panel">
+    <h1>South West Civ</h1>
+    <p class="sub">Milestone 0: real elevation and place names on a 5&nbsp;km hex grid. Civ values (gold, districts, citizens) are not built yet.</p>
+    <label><input type="radio" name="layer" value="terrain" checked> Terrain</label>
+    <label><input type="radio" name="layer" value="elevation"> Elevation</label>
+    <div id="legend"></div>
+    <label><input type="checkbox" id="places" checked> Place names</label>
+    <p class="attr" id="meta"></p>
+  </aside>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

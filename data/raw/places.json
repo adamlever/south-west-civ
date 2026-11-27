@@ -1,0 +1,335 @@
+{
+ "source": "OpenStreetMap contributors via Overpass API, ODbL",
+ "fetched": "2026-11-27",
+ "places": [
+  {
+   "osm_id": 32566859,
+   "name": "Bunbury",
+   "place": "city",
+   "lon": 115.636698,
+   "lat": -33.3267797
+  },
+  {
+   "osm_id": 82448311,
+   "name": "Busselton",
+   "place": "city",
+   "lon": 115.3488754,
+   "lat": -33.644499
+  },
+  {
+   "osm_id": 251285065,
+   "name": "Augusta",
+   "place": "town",
+   "lon": 115.1605864,
+   "lat": -34.3156059
+  },
+  {
+   "osm_id": 82362316,
+   "name": "Balingup",
+   "place": "town",
+   "lon": 115.9831595,
+   "lat": -33.7860758
+  },
+  {
+   "osm_id": 82310985,
+   "name": "Boyanup",
+   "place": "town",
+   "lon": 115.7289103,
+   "lat": -33.4843551
+  },
+  {
+   "osm_id": 164445924,
+   "name": "Boyup Brook",
+   "place": "town",
+   "lon": 116.3853069,
+   "lat": -33.8321176
+  },
+  {
+   "osm_id": 141769111,
+   "name": "Bridgetown",
+   "place": "town",
+   "lon": 116.137245,
+   "lat": -33.9580685
+  },
+  {
+   "osm_id": 42125052,
+   "name": "Brunswick Junction",
+   "place": "town",
+   "lon": 115.840406,
+   "lat": -33.2559469
+  },
+  {
+   "osm_id": 1792665646,
+   "name": "Burekup",
+   "place": "town",
+   "lon": 115.8105306,
+   "lat": -33.3106486
+  },
+  {
+   "osm_id": 113737243,
+   "name": "Capel",
+   "place": "town",
+   "lon": 115.5615253,
+   "lat": -33.55125
+  },
+  {
+   "osm_id": 307155186,
+   "name": "Collie",
+   "place": "town",
+   "lon": 116.1536169,
+   "lat": -33.3591223
+  },
+  {
+   "osm_id": 1857977959,
+   "name": "Cowaramup",
+   "place": "town",
+   "lon": 115.1029727,
+   "lat": -33.8512674
+  },
+  {
+   "osm_id": 113734498,
+   "name": "Dardanup",
+   "place": "town",
+   "lon": 115.7539647,
+   "lat": -33.4001716
+  },
+  {
+   "osm_id": 82424020,
+   "name": "Donnybrook",
+   "place": "town",
+   "lon": 115.8251293,
+   "lat": -33.5773757
+  },
+  {
+   "osm_id": 252061656,
+   "name": "Dunsborough",
+   "place": "town",
+   "lon": 115.1065921,
+   "lat": -33.614656
+  },
+  {
+   "osm_id": 1195032483,
+   "name": "Greenbushes",
+   "place": "town",
+   "lon": 116.0595868,
+   "lat": -33.8494245
+  },
+  {
+   "osm_id": 42125696,
+   "name": "Harvey",
+   "place": "town",
+   "lon": 115.8984193,
+   "lat": -33.0806518
+  },
+  {
+   "osm_id": 486257691,
+   "name": "Kirup",
+   "place": "town",
+   "lon": 115.8927289,
+   "lat": -33.7058262
+  },
+  {
+   "osm_id": 82404635,
+   "name": "Manjimup",
+   "place": "town",
+   "lon": 116.1462983,
+   "lat": -34.2410278
+  },
+  {
+   "osm_id": 251285017,
+   "name": "Margaret River",
+   "place": "town",
+   "lon": 115.0769369,
+   "lat": -33.9531776
+  },
+  {
+   "osm_id": 82341962,
+   "name": "Nannup",
+   "place": "town",
+   "lon": 115.7637655,
+   "lat": -33.9784295
+  },
+  {
+   "osm_id": 234065998,
+   "name": "Northcliffe",
+   "place": "town",
+   "lon": 116.1243645,
+   "lat": -34.6331785
+  },
+  {
+   "osm_id": 82359265,
+   "name": "Pemberton",
+   "place": "town",
+   "lon": 116.0346584,
+   "lat": -34.4441275
+  },
+  {
+   "osm_id": 964687961,
+   "name": "Witchcliffe",
+   "place": "town",
+   "lon": 115.1004768,
+   "lat": -34.0263348
+  },
+  {
+   "osm_id": 217712825,
+   "name": "Yarloop",
+   "place": "town",
+   "lon": 115.9013529,
+   "lat": -32.9546835
+  },
+  {
+   "osm_id": 1090298694,
+   "name": "Allanson",
+   "place": "village",
+   "lon": 116.0994037,
+   "lat": -33.3349302
+  },
+  {
+   "osm_id": 42126000,
+   "name": "Binningup",
+   "place": "village",
+   "lon": 115.6972499,
+   "lat": -33.1491325
+  },
+  {
+   "osm_id": 709655785,
+   "name": "Bowelling",
+   "place": "village",
+   "lon": 116.4845933,
+   "lat": -33.4210397
+  },
+  {
+   "osm_id": 369923298,
+   "name": "Cardiff",
+   "place": "village",
+   "lon": 116.2073933,
+   "lat": -33.428765
+  },
+  {
+   "osm_id": 220779589,
+   "name": "Cookernup",
+   "place": "village",
+   "lon": 115.8926767,
+   "lat": -32.9960603
+  },
+  {
+   "osm_id": 260193221,
+   "name": "Donnelly River",
+   "place": "village",
+   "lon": 115.9774646,
+   "lat": -34.102539
+  },
+  {
+   "osm_id": 4562335331,
+   "name": "Gnarabup",
+   "place": "village",
+   "lon": 114.9980318,
+   "lat": -33.99469
+  },
+  {
+   "osm_id": 1805075839,
+   "name": "Gracetown",
+   "place": "village",
+   "lon": 114.9881592,
+   "lat": -33.8646786
+  },
+  {
+   "osm_id": 673874153,
+   "name": "Jarrahwood",
+   "place": "village",
+   "lon": 115.6652563,
+   "lat": -33.7969753
+  },
+  {
+   "osm_id": 187130200,
+   "name": "Karridale",
+   "place": "village",
+   "lon": 115.0998491,
+   "lat": -34.2009995
+  },
+  {
+   "osm_id": 486242170,
+   "name": "Mullalyup",
+   "place": "village",
+   "lon": 115.9451607,
+   "lat": -33.743126
+  },
+  {
+   "osm_id": 42126759,
+   "name": "Myalup",
+   "place": "village",
+   "lon": 115.6963151,
+   "lat": -33.1029958
+  },
+  {
+   "osm_id": 486267919,
+   "name": "Newlands",
+   "place": "village",
+   "lon": 115.8765346,
+   "lat": -33.6680536
+  },
+  {
+   "osm_id": 486287638,
+   "name": "Noggerup",
+   "place": "village",
+   "lon": 116.1617757,
+   "lat": -33.5801238
+  },
+  {
+   "osm_id": 240449198,
+   "name": "Peppermint Grove Beach",
+   "place": "village",
+   "lon": 115.5072495,
+   "lat": -33.5279893
+  },
+  {
+   "osm_id": 141802192,
+   "name": "Prevelly",
+   "place": "village",
+   "lon": 114.9948518,
+   "lat": -33.9784455
+  },
+  {
+   "osm_id": 6052071711,
+   "name": "Quinninup",
+   "place": "village",
+   "lon": 116.2504,
+   "lat": -34.43408
+  },
+  {
+   "osm_id": 971140063,
+   "name": "Wilga",
+   "place": "village",
+   "lon": 116.2329951,
+   "lat": -33.6954416
+  },
+  {
+   "osm_id": 648227423,
+   "name": "Wokalup",
+   "place": "village",
+   "lon": 115.8813184,
+   "lat": -33.1119375
+  },
+  {
+   "osm_id": 6029472127,
+   "name": "Wonnerup",
+   "place": "village",
+   "lon": 115.4346332,
+   "lat": -33.637256
+  },
+  {
+   "osm_id": 2365813401,
+   "name": "Yabberup",
+   "place": "village",
+   "lon": 116.0073943,
+   "lat": -33.5371783
+  },
+  {
+   "osm_id": 252061660,
+   "name": "Yallingup",
+   "place": "village",
+   "lon": 115.0259595,
+   "lat": -33.6395258
+  }
+ ]
+}

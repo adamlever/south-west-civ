@@ -1,0 +1,8 @@
+{
+  "name": "South West WA",
+  "description": "Capes, Busselton, Augusta-Margaret River, Bunbury and the wider south-west corner.",
+  "bbox": {"west": 114.9, "south": -35.05, "east": 116.7, "north": -32.95},
+  "hex_spacing_km": 5.0,
+  "town_place_types": ["city", "town", "village"],
+  "terrain_thresholds_m": {"plains_max": 100, "hills_max": 250}
+}
